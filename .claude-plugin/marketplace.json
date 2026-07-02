@@ -1,0 +1,14 @@
+{
+  "name": "fable-advisor",
+  "owner": {
+    "name": "Dan McAteer",
+    "url": "https://github.com/DannyMac180"
+  },
+  "plugins": [
+    {
+      "name": "fable-advisor",
+      "source": "./",
+      "description": "Consult Claude's most capable model at commitment boundaries while a cheap model does the work."
+    }
+  ]
+}

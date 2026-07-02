@@ -1,0 +1,12 @@
+{
+  "name": "fable-advisor",
+  "version": "1.0.0",
+  "description": "Consult Claude's most capable model at commitment boundaries while a cheap model does the work. Fable-level judgment, Sonnet-level bills.",
+  "author": {
+    "name": "Dan McAteer",
+    "url": "https://github.com/DannyMac180"
+  },
+  "homepage": "https://github.com/DannyMac180/fable-advisor",
+  "license": "MIT",
+  "keywords": ["agents", "model-routing", "fable", "advisor", "orchestration"]
+}
